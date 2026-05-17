@@ -1,0 +1,55 @@
+---
+layout: post
+title:  "personal finance rant"
+date:   2026-05-16 14:43:23 -0400
+categories: money
+---
+
+Starting a financial journey is hard. There's a lot going on in the world and the instability of it all might make you more nihilistic and wonder "why the hell would I do that?"
+
+For most Americans (and the people I interact with), regardless of how much money they are making (32k-360k gross average annual total compensation), some of them still manage to stay stressed about money. While I have more sympathy for those in unfortunate life circumstances or lower incomes, there are still things they could be doing to help their situation but actively refuse to do so for a variety of reasons.
+
+Note: I will not be giving *exact* numbers unless they are my own since I don't want to be giving away real people's identities.
+During example numbers I'll give away details that resemble real situations close enough, since one of the biggest frustrations I've had with reading or learning about personal finance was the lack of realism or proper number details.
+
+Situation 1:
+- ~80k gross annual TC (total compensation)
+	- this comes out to ~$59k net or ~$4,916k a month (accounting for federal, state, medicare, and social security tax)
+- Lives with a roommate (pays 1.1k/month with utilities and everything included)
+But continues to have credit card debt, auto loan debt, student loan debt, etc.
+
+A way to start paying this off is subtracting out how much goes out (like rent) and creating a budget.
+
+Creating a budget does NOT require anything super extra special, just some numbers and a calculator and some paper. (And if you're reading this, you have a computer. Use it.)
+Open Notepad or a physical notepad and write down what you have. If you have a W-2 or something from the most recent tax year, then use that as a reference.
+
+Find out what your fixed NECESSARY (like RENT, NOT like eating out or going out!!) expenses are and put them all down. You'll get a number at the end of it.
+
+$4,916 - $1,100 = $3,816
+
+You need to eat so add in $400 for groceries (or adjust to your cost of living area with this:) https://livingwage.mit.edu/
+$3,816 - $400 = $3,416
+
+You probably drive and do a bunch of other things to get to work, so start subtracting those out starting with gas
+$3,416 - $250 = $3,166
+
+You have to (if you already don't) get insurance. It's illegal to drive without insurance and its an easy way to fuck up your life. Get insurance.
+$3,166 - $50 = $3,116 (I didn't check this number or get a real quote, forgive me for now)
+
+You have literally $3k to mess around with. This DOES NOT MEAN go spend it all.
+Put away half of it first, and attempt to see if you can fit it into your reality.
+$3,116 / 2 = $1,558
+
+Okay, add together your debt payments (credit cards, auto loans, personal loans, fucking all of it)
+Count up the minimum monthly payments first and subtract those:
+$1,558 - $900 = $658
+
+Okay, DO NOT spend that $658
+Find out what stuff you have is costing you the most in interest (probably credit cards, those APRs are insane and highkey should be illegal)
+Pay that shit off. I know there are credit card rewards but you aren't there just yet.
+Use your debit card for purchases until then.
+"What if I want to stay secure with purchases? (skimming worry)" - Okay, valid concern. Open a secured credit card then. You put money down to have that line of credit, making you more responsible with it. As you use the card at places, pay it down so that the limit isn't going sky high.
+All the other concerns about wanting cash back, etc. etc. are stupid. you already used it wrong by paying interest, now is not the time.
+Don't worry if all the money went straight to just one card. Pay the minimums on everything else, then leave them be. If the card you eventually paid off has an annual fee, cancel it. You can't afford it when you're getting out of debt.
+
+Okay, that's about it for now. I'll probably edit this post or add more later. Gotta learn how GitHub pages work and how Jekyll works before I can put fancy charts and stuff on here.

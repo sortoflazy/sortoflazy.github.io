@@ -21,13 +21,9 @@
 title: the sortoflazy blog
 email: someone@security.company
 description: >- # this means to ignore newlines until "baseurl:"
-  I'm not writing an awesome description for my new site here. You can't edit this
-  line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
   No real description yet. Probably going to be about finance and security.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sortoflazy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: i_dont_have_one
-github_username:  sortoflazy
 
 # Build settings
 theme: minima
